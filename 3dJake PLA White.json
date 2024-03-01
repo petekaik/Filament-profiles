@@ -1,0 +1,52 @@
+{
+    "activate_air_filtration": [
+        "1"
+    ],
+    "activate_chamber_temp_control": [
+        "1"
+    ],
+    "chamber_temperature": [
+        "45"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "23"
+    ],
+    "filament_flow_ratio": [
+        "1.029"
+    ],
+    "filament_max_volumetric_speed": [
+        "17"
+    ],
+    "filament_settings_id": [
+        "3dJake PLA White"
+    ],
+    "filament_vendor": [
+        "3DJake"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "50"
+    ],
+    "inherits": "Creality Generic PLA",
+    "is_custom_defined": "0",
+    "name": "3dJake PLA White",
+    "nozzle_temperature": [
+        "205"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "nozzle_temperature_range_high": [
+        "215"
+    ],
+    "nozzle_temperature_range_low": [
+        "195"
+    ],
+    "pressure_advance": [
+        "0.052"
+    ],
+    "version": "1.7.0.0"
+}
